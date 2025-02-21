@@ -1,2 +1,2 @@
 # ra-book
-Basics in Robot Audition
+Introduction to Robot Audition
